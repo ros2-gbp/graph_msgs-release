@@ -1,3 +1,24 @@
+## graph_msgs (jade) - 0.1.0-0
+
+The packages in the `graph_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release graph_msgs -t jade -r jade` on `Thu, 03 Dec 2015 20:04:59 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+- upstream repository: https://github.com/davetcoleman/graph_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## graph_msgs (indigo) - 0.1.0-0
 
 The packages in the `graph_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release graph_msgs -t indigo -r indigo --edit` on `Fri, 24 Oct 2014 23:09:07 -0000`
