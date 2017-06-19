@@ -1,3 +1,26 @@
+## graph_msgs (lunar) - 0.1.0-0
+
+The packages in the `graph_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release graph_msgs -t lunar -r lunar` on `Mon, 19 Jun 2017 04:54:50 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+
+- upstream repository: https://github.com/davetcoleman/graph_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## graph_msgs (kinetic) - 0.1.0-0
 
 The packages in the `graph_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release graph_msgs -t kinetic -r kinetic` on `Wed, 29 Jun 2016 12:36:25 -0000`
