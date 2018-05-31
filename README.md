@@ -1,3 +1,26 @@
+## graph_msgs (melodic) - 0.1.0-0
+
+The packages in the `graph_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release graph_msgs -t melodic -r melodic` on `Thu, 31 May 2018 17:21:01 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+
+- upstream repository: https://github.com/davetcoleman/graph_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## graph_msgs (lunar) - 0.1.0-0
 
 The packages in the `graph_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release graph_msgs -t lunar -r lunar` on `Mon, 19 Jun 2017 04:54:50 -0000`
