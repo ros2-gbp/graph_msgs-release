@@ -1,3 +1,26 @@
+## graph_msgs (foxy) - 0.2.0-1
+
+The packages in the `graph_msgs` repository were released into the `foxy` distro by running `/home/jafar/.local/bin/bloom-release graph_msgs -t foxy -r foxy --edit` on `Tue, 14 Sep 2021 14:33:08 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+
+- upstream repository: https://github.com/PickNikRobotics/graph_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## graph_msgs (kinetic) - 0.1.0-1
 
 The packages in the `graph_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release graph_msgs -t kinetic -r kinetic --edit` on `Wed, 10 Jun 2020 21:05:05 -0000`
