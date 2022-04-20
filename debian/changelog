@@ -1,0 +1,29 @@
+ros-humble-graph-msgs (0.2.0-3bullseye) bullseye; urgency=high
+
+  * Port to ROS 2 (#5 <https://github.com/PickNikRobotics/graph_msgs/issues/5>)
+  * Contributors: Dave Coleman, Henning Kayser, Tyler Weaver, Vatan Aksoy Tezer
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Tue, 14 Sep 2021 07:00:00 -0000
+
+ros-humble-graph-msgs (0.1.0-3bullseye) bullseye; urgency=high
+
+  * Added header / timestamp
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Fri, 24 Oct 2014 07:00:00 -0000
+
+ros-humble-graph-msgs (0.0.3-3bullseye) bullseye; urgency=high
+
+  * Release to indigo
+  * Spelling fix
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Fri, 30 May 2014 07:00:00 -0000
+
+ros-humble-graph-msgs (0.0.2-3bullseye) bullseye; urgency=high
+
+  * Initial commit
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Mon, 07 Apr 2014 07:00:00 -0000
+
+
