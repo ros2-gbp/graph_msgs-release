@@ -1,0 +1,47 @@
+ros-jazzy-graph-msgs (0.2.1-1bookworm) bookworm; urgency=high
+
+  No message definitions changed in this release; it is CI, packaging and
+  licensing only.
+  * ci: unblock and broaden the ros2 matrix for Rolling/Resolute (#20 <https://github.com/PickNikRobotics/graph_msgs/issues/20>)
+    Set ``fail-fast: false``, move the rolling job to ``ROS_REPO: testing`` on
+    Ubuntu Resolute and mark it non-blocking, and add jazzy, kilted and lyrical
+    coverage. The matrix previously tested two of the five distros this branch
+    ships to.
+  * Update GitHub Actions to use latest versions (#18 <https://github.com/PickNikRobotics/graph_msgs/issues/18>)
+  * Update the build and format workflows (#15 <https://github.com/PickNikRobotics/graph_msgs/issues/15>)
+  * Bump the minimum CMake version to 3.10
+  * Humble CI and formatting updates (#10 <https://github.com/PickNikRobotics/graph_msgs/issues/10>)
+  * Add LICENSE file (#9 <https://github.com/PickNikRobotics/graph_msgs/issues/9>)
+  * Contributors: Jafar Abdi, Nathan Brooks, Vatan Aksoy Tezer, mosfet80
+
+ -- "Dave Coleman" <davetcoleman@gmail.com>  Mon, 03 Aug 2026 06:00:00 -0000
+
+ros-jazzy-graph-msgs (0.2.0-1bookworm) bookworm; urgency=high
+
+  * Port to ROS 2 (#5 <https://github.com/PickNikRobotics/graph_msgs/issues/5>)
+  * Contributors: Dave Coleman, Henning Kayser, Tyler Weaver, Vatan Aksoy Tezer
+
+ -- "Dave Coleman" <davetcoleman@gmail.com>  Tue, 14 Sep 2021 06:00:00 -0000
+
+ros-jazzy-graph-msgs (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Added header / timestamp
+  * Contributors: Dave Coleman
+
+ -- "Dave Coleman" <davetcoleman@gmail.com>  Fri, 24 Oct 2014 06:00:00 -0000
+
+ros-jazzy-graph-msgs (0.0.3-1bookworm) bookworm; urgency=high
+
+  * Release to indigo
+  * Spelling fix
+  * Contributors: Dave Coleman
+
+ -- "Dave Coleman" <davetcoleman@gmail.com>  Fri, 30 May 2014 06:00:00 -0000
+
+ros-jazzy-graph-msgs (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Initial commit
+
+ -- "Dave Coleman" <davetcoleman@gmail.com>  Mon, 07 Apr 2014 06:00:00 -0000
+
+
