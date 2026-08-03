@@ -1,3 +1,26 @@
+## graph_msgs (jazzy) - 0.2.1-1
+
+The packages in the `graph_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy graph_msgs` on `Mon, 03 Aug 2026 07:31:59 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+
+- upstream repository: https://github.com/PickNikRobotics/graph_msgs.git
+- release repository: https://github.com/ros2-gbp/graph_msgs-release.git
+- rosdistro version: `0.2.0-6`
+- old version: `0.2.0-6`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## graph_msgs (kilted) - 0.2.1-1
 
 The packages in the `graph_msgs` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted graph_msgs` on `Mon, 03 Aug 2026 07:27:17 -0000`
